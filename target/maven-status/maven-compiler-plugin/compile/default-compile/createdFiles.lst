@@ -1,0 +1,12 @@
+com/redhat/developer/types/ChallengeData.class
+com/redhat/developer/types/ChallengeData$1.class
+com/redhat/developer/types/WorkPotentialKey.class
+com/redhat/developer/types/ChallengeData$2.class
+com/redhat/developer/types/WorkPotential.class
+com/redhat/developer/types/graph/Edge.class
+com/redhat/developer/types/Manager.class
+com/redhat/developer/types/Developer.class
+com/redhat/developer/types/graph/Graph.class
+com/redhat/developer/types/CellType.class
+com/redhat/developer/types/graph/Node.class
+com/redhat/developer/Application.class
